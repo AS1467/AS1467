@@ -7,9 +7,8 @@
 <h3 align="center">Detail-oriented and results-driven Computer Science Engineering student with a strong foundation in computer science and a keen interest in data analytics.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFkbTB4d29jeDRnbXN3dHBqcjdpeXd3NnA1YW1xemd2MTR6Ym0xMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.webp">
 
-- 🌱 I’m currently learning **and continuously improving myself**
 
-- 💬 Ask me about **Data Analystics**
+- 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **amokhgnairfs@gmail.com**
 
